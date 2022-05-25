@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'll contact you
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to lean new things.
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebtech33&show_icons=true"/>
