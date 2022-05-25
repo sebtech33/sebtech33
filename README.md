@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to lean new things.
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebtech33&show_icons=true"/>
+<!-- Theme the widgets with &theme=<theme_name> -->
+<img src="https://github-readme-stats.vercel.app/api?username=sebtech33&show_icons=true&theme=dark"/>
+
+<!-- add &layout=compact at the en for a more compact view -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebtech33&theme=dark"/>
