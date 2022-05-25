@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sebtech33/sebtech33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Here are some ideas to get you started:
+# Hi there 👋
 
 - 🔭 I’m currently working on many different things, mainly learning for now
 - 🌱 I’m currently learning Python, PowerShell
