@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on many different things, mainly learning for now
+- 🌱 I’m currently learning Python, PowerShell
+- 👯 I’m looking to collaborate on something that intrests me
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about anything
+- 📫 How to reach me: I'll contact you
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to lean new things.
