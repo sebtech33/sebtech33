@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on something that intrests me
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about anything
-- 📫 How to reach me: I'll contact you
+- 📫 How to reach me: sebtech33@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to lean new things.
 
